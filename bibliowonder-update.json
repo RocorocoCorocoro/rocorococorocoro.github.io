@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "latestVersion": "1.0.1",
+  "titleJapanese": "新しい配本があります",
+  "messageJapanese": "BiblioWonderの新しい版をお楽しみいただけます。\nストアからアップデートしてください。",
+  "titleEnglish": "A new delivery is available",
+  "messageEnglish": "A new version of BiblioWonder is available.\nPlease update it from the store.",
+  "androidUrl": "https://play.google.com/store/apps/details?id=com.mymykoubou.bibliowonder",
+  "iosUrl": "https://apps.apple.com/jp/app/bibliowonder/id6797534396"
+}
